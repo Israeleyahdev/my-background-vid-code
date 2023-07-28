@@ -1,0 +1,27 @@
+*{
+   box-sizing: border-box;
+}
+
+.hidden{
+    display: none;
+   
+}
+/* .container{
+    position: relative;
+    width: ;
+    height: 400px;
+    overflow: hidden;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+video{
+    position: absolute;
+    top: 0;
+    left: 0;
+} */
+h2{
+    cursor: pointer;
+    color: blue;
+}
